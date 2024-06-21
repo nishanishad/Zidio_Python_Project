@@ -1,5 +1,5 @@
 # Python-Project
-##Introduction 2
+## Introduction 2
 In this project conducted during my internship at ZidiO Development, I focused on customer segmentation for an E-commerce platform. The objective was to understand customer behavior through data analysis and clustering techniques. By segmenting customers based on their purchasing patterns and search behaviors, the project aimed to provide actionable insights for targeted marketing strategies and personalized customer engagement.
 
 ##Purpose
